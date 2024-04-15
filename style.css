@@ -39,12 +39,12 @@ body {
     padding: 20px;
 }
 
-/* Keep the form and container styling as it was previously */
+
 .container {
     max-width: 1200px;
     margin: auto;
     padding: 40px;
-    background: #fff; /* Keep the form background white for contrast */
+    background: #fff; 
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
