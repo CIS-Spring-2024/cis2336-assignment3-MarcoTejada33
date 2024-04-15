@@ -1,8 +1,8 @@
 const menuData = {
     'Breakfast': { price: 8.99, items: ['Classic Breakfast', 'Power Parfait', 'Breakfast Bowls', 'Breakfast Sandwich'] },
-    'Pastries': { price: 3.50, items: ['Bagels', 'Muffins', 'Cheese/Blueberry Danishes'] },
+    'Pastries': { price: 3.99, items: ['Bagels', 'Muffins', 'Cheese/Blueberry Danishes'] },
     'Lunch': { price: 11.99, items: ['Turkey Club Wrap', 'Mediterranean Salad', 'Vegetarian Buddha Bowl', 'Chicken Quesadilla'] },
-    'Beverages': { price: 2.50, items: ['Espresso', 'Latte', 'Green Tea', 'Iced Teas', 'Bottled Water', 'Fountain Drinks'] }
+    'Beverages': { price: 1.99, items: ['Espresso', 'Latte', 'Green Tea', 'Iced Teas', 'Bottled Water', 'Fountain Drinks'] }
 };
 
 document.addEventListener('DOMContentLoaded', function() {
